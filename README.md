@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammad Ashraf</h1>
 <h1 align="center">Data Analyst</h1>
 
+![System-engineer-to-data-analyst](https://github.com/Ashraf7474/Ashraf7474/assets/131772000/27c513c5-e716-42e4-8b9a-32438c189c94)
+
+
 <h3 align="center">An aspiring and detail-oriented data analyst from India with strong mathematical skills and statistical knowledge with a keen interest in handling and manipulating data to provide useful insights.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/ba27b6fd30244ff7ceefab84c6efb5379d35a25c170f4d82cfe4e8881ea2894a/68747470733a2f2f626c6f672e696d617274696375732e6f72672f77702d636f6e74656e742f75706c6f6164732f323031392f30352f64616f6e6c696e652e676966">
