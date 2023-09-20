@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammad-ashraf-4a5997224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-ashraf-4a5997224" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/https://www.linkedin.com/in/mohammad-ashraf-4a5997224/](https://www.linkedin.com/in/mohammad-ashraf-4a5997224/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-ashraf-4a5997224" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/khanashraf747474" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/khanashraf747474" height="30" width="40" /></a>
 </p>
 
