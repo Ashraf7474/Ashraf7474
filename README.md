@@ -38,7 +38,8 @@
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a>
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/4baf082217477d2c8f8447a86d79b0d5425261ab90c1f078b7473f9a5101adfb/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d34382669643d3373474f55446f396e4a346b26666f726d61743d706e67" alt="powerbi" width="40" height="40"/></a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Ashraf7474/Ashraf7474/blob/main/assets/131772000/ea5099a6-b967-4cb6-8440-dbeb7368b694.png" alt="Excel" width="40" height="40"/>
+    <img src="![excel_ms-5bfc379146e0fb00511cdefe](https://github.com/Ashraf7474/Ashraf7474/assets/131772000/0bc5d1b3-484b-4e90-8f6a-354d1b007e2b)
+" alt="Excel" width="40" height="40"/>
 </a>
 
 </p>
