@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Python, MySQL, Excel, Power BI , Machine Learning**
 
-- 📫 How to reach me: [Mail](khanashraf747474@gmail.com)
+- 📫 How to reach me on my Gmail: **khanashraf747474@gmail.com**
 
 - ⚡ Fun fact: **I always remain in learning**
 
